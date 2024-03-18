@@ -1,1 +1,1 @@
-# XDU-2024-Digital-circuit
+2024年大二下数字电路实验
